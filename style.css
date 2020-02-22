@@ -1,0 +1,15 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.container{
+	margin-top: 20px;
+	background:rgba(0,0,0,0.4);
+}
+
+@media(max-width:768px){
+	label{
+		float:left;
+	}
+}
